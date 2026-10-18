@@ -1,2 +1,2 @@
-# Armory-v11
-This is a Foundry v11.315 version of my Armory module.
+# Armory
+A D&amp;D 3.5 SRD magic-item creator and crafter.
